@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "Built with GCC v10 compiler",
+			"label": "Build with GCC v10 compiler",
 			"command": "/usr/bin/g++-10",
 			"args": [
 				"-g",
